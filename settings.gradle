@@ -1,2 +1,2 @@
-rootProject.name='Ad Removal Demo'
+rootProject.name='Native Ads Demo'
 include ':app'
